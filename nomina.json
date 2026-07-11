@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "josue",
+    "cargo": "a",
+    "sueldo": 300,
+    "aniosServicio": 1
+  },
+  {
+    "nombre": "guille",
+    "cargo": "a",
+    "sueldo": 300,
+    "aniosServicio": 1
+  }
+]
